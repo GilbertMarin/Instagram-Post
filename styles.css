@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+    overflow: hidden;
+    color: black;
+    font-family: 'Miller Ban It';
+	font-size: 14px;
+	font-style: italic;
+    
+    margin: 0;
+    padding: 10px;
+   
+}
+
+
+.top_izquierda{
+
+    display: inline-block;
+    padding: 5px 10px 10px 10px;
+    height: 40px;
+
+}
+.contenedor{
+    border: solid;
+    border-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 400px;
+    margin-right: 450px;
+    display: inline-block;
+    background-color: grey;
+}
+.imagen{
+  max-width:1080px;
+  width: 100%;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-left: 0%;
+    margin-right: 0%;
+  display: flex;
+  flex-wrap: wrap;
+    padding-left: 10px;
+    padding-right: 10px;
+    align-items: center;
+    position: relative;
+ }   
+    
+  
+footer{
+    
+    align-items: center;
+    position: relative;
+    width: 98%%;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: large;
+    
+}
+
+
+.logo_derecha{
+
+    display: inline-block;
+    float: right;
+    font-size: large;
+    height: 40px;
+    padding: 5px 10px 10px 10px;
+}
+
+#icono_derecha{
+    display: inline-block;
+    float: right;
+    text-align: right;
+    
+}
+
